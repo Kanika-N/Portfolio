@@ -496,9 +496,9 @@ main{
     }
 
     /* Mobile view for max-width: 650px */
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 850px) {
     #Project {
-        padding: 50px 10px;
+        padding: 10px 30px;
     }
 
     .pro-row {
@@ -600,9 +600,9 @@ margin-bottom: 40px;
 }
 
 /* Mobile view */
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 850px) {
     #contact {
-        padding: 50px 20px;
+        padding: 10px 30px;
     }
 
     .contact-container {
